@@ -1,0 +1,16 @@
+# Env files
+.env
+backend/.env
+frontend/.env
+
+# Node
+node_modules
+backend/node_modules
+frontend/node_modules
+
+# Vite
+dist
+frontend/dist
+
+# Logs
+npm-debug.log*
